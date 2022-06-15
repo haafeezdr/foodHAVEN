@@ -4,13 +4,13 @@ body{
 }
 
 .box-1 {
-    left : 160px
+    left : 160px auto;
 }
 .box-2 {
-    left : 350px
+    left : 350px auto;
 }
 .box-3 {
-    left: 550px;
+    left: 550px auto;
 }
 
 @media(max-width: 767px) {
