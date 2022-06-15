@@ -198,3 +198,7 @@
     height: unset;
     transform: scaleY(1);
 }
+
+.text {
+  text-align: center;
+}
