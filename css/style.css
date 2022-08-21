@@ -34,10 +34,10 @@
   }
 
   #nav .solid {
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    justify-content: center;
-    align-items: center;
+    padding-top: 2rem;
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
   }
 
 
